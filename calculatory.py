@@ -24,3 +24,5 @@ def get_Abs(num):
     else:
         return -num
 
+def get_Percent(a, b):
+    return (a/b) * 100
